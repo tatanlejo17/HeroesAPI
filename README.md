@@ -32,3 +32,16 @@ Este proyecto es una API RESTful construida con .NET 8, utilizando Dapper como O
 git clone https://github.com/tu_usuario/tu_repositorio.git
 cd tu_repositorio
 ```
+
+### 2. Restaurar las Dependencias
+
+```bash
+dotnet restore
+```
+
+### 2. Compilar y Ejecutar el Proyecto
+
+```bash
+dotnet build
+dotnet run
+```
